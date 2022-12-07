@@ -17,7 +17,7 @@
 			"CustomizationSpec": "Win10-Spec",
 			"vCPUs": "4",
 			"RAM": "6",
-			"IPAddress": "10.142.98.30",
+			"IPAddress": "192.168.1.30",
 			"SubnetMask": "255.255.254.0",
 			"Gateway": "192.168.1.254",
 			"Domain": "evorigin.com",
