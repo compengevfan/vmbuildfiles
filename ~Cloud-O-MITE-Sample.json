@@ -8,8 +8,7 @@
 			"FolderPath": "DC1/EvOrigin/Media Servers",
 			"VMName": "JAX-PLMS001",
 			"Datastore": "iSCSI-Storage",
-		  	"PortGroup": "JAX-EvOrigin-vDS",
-			"Outage" : "Shutdown"
+		  	"PortGroup": "JAX-EvOrigin-vDS"
 		}
 	],
   
