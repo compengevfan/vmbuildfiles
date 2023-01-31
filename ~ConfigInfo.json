@@ -22,5 +22,19 @@
         {
             "Placeholder": "Blah"
         }
+    ],
+	"OKD": [
+        {
+            "PortGroup": "OKD-vDS",
+            "SNM": "255.255.255.0",
+            "Gateway": "192.168.40.254",
+            "DNS1": "192.168.1.125",
+            "DNS2": "192.168.1.126",
+            "Domain": "evorigin.comm",
+            "OU": "Virtual Servers",
+            "Template": "TPL-Win2K19",
+            "CustomizationSpec": "Win2K19-Spec",
+            "FolderPath": "DC1/EvOrigin/Workers"
+        }
     ]
 }
