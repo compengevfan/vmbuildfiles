@@ -1,5 +1,5 @@
 {
-	"JAX-EvOrigin": [
+	"JAX_EvOrigin": [
         {
             "PortGroup": "JAX-EvOrigin-vDS",
             "SNM": "255.255.254.0",
@@ -13,12 +13,12 @@
             "FolderPath": "DC1/EvOrigin/Workers"
         }
     ],
-	"BTR-Evorigin": [
+	"BTR_Evorigin": [
         {
             "Placeholder": "Blah"
         }
     ],
-	"JAX-Origin": [
+	"JAX_Origin": [
         {
             "Placeholder": "Blah"
         }
