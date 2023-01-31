@@ -1,9 +1,6 @@
 {
-	"VMInfo": [
-		{
-			"vCPUs": "2",
-			"RAM": "4",
-			"IPAddress": "192.168.1.30"
-		}
-	]
+	"vCPUs": "2",
+	"RAM": "4",
+	"IPAddress": "192.168.1.30",
+	"ConfigToUse": "JAX_EvOrigin"
 }
