@@ -17,7 +17,7 @@
 			"CustomizationSpec": "Win2K19-Spec",
 			"vCPUs": "2",
 			"RAM": "4",
-			"IPAddress": "192.168.10.141",
+			"IPAddress": "192.168.10.143",
 			"SubnetMask": "255.255.255.0",
 			"Gateway": "192.168.10.254",
 			"Domain": "origin.local",
