@@ -1,0 +1,23 @@
+{
+	"ClusterInfo": [
+		{
+			"Node1": "JAX-NODE001",
+			"Node2": "JAX-NODE002",
+			"WinClusterName": "CLS100-JAX",
+			"RoleName": "JAX-CLS100",
+			"WinClusterIP": "192.168.1.164",
+			"RoleIP": "192.168.1.165"
+		}
+	],
+	
+	"AdditionalDisks": [
+		{
+			"MPName": "Data1",
+			"Size": "50"
+		},
+		{
+			"MPName": "Log1",
+			"Size": "25"
+		}
+	]
+}
