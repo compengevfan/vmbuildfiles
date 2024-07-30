@@ -7,7 +7,7 @@
 			"Cluster": "C1",
 			"FolderPath": "DC1/EvOrigin/Media Servers",
 			"VMName": "JAX-WKN001",
-			"Datastore": "iSCSI-Storage2-SSD",
+			"Datastore": "iSCSI-Storage1-SSD",
 		  	"PortGroup": "JAX-EvOrigin-vDS",
 			"Outage" : "Shutdown"
 		}
