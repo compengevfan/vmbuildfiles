@@ -1,7 +1,7 @@
 {
 	"VMInfo": [
 		{
-			"OperatingSystem": "Win2022",
+			"OperatingSystem": "Alma9_4",
 			"vCPUs": "2",
 			"RAM": "8",
 			"IPAddress": "192.168.1.145",
@@ -12,7 +12,7 @@
   
   	"ExtraDisks": [
 		{
-			"CustomizationSpec": "Win10-Spec",
+			"CustomizationSpec": "AlmaLinux",
 			"SubnetMask": "255.255.254.0",
 			"Gateway": "192.168.1.254",
 			"Domain": "evorigin.com",
