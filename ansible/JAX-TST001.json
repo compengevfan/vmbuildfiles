@@ -1,14 +1,12 @@
 {
-	"VMInfo": [
-		{
-			"OperatingSystem": "Win2022",
-			"vCPUs": "2",
-			"RAM": "8",
-			"IPAddress": "192.168.1.145",
-			"Datastore": "iSCSI-Storage1-SSD",
-			"FolderPath": "DC1/EvOrigin/Workers"
-		}
-	],
+	"VMInfo": {
+		"OperatingSystem": "Win2022",
+		"vCPUs": "2",
+		"RAM": "8",
+		"IPAddress": "192.168.1.145",
+		"Datastore": "iSCSI-Storage1-SSD",
+		"FolderPath": "DC1/EvOrigin/Workers"
+	},
   
   	"ExtraDisks": [
 		{
