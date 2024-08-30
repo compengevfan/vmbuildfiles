@@ -12,13 +12,7 @@
   
   	"ExtraDisks": [
 		{
-			"CustomizationSpec": "AlmaLinux",
-			"SubnetMask": "255.255.254.0",
-			"Gateway": "192.168.1.254",
-			"Domain": "evorigin.com",
-			"DNS1": "192.168.1.126",
-			"DNS2": "192.168.1.125",
-			"OU": "Virtual Workstations"
+			"Coming": "Soon"
 		}
 	]
 }
