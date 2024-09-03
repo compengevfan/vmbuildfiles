@@ -1,10 +1,10 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Win2022",
+		"OperatingSystem": "Windows 10",
 		"vCPUs": "2",
-		"RAM": "8",
-		"IPAddress": "10.10.10.3",
-		"Subnet": "/24",
+		"RAM": "6144",
+		"IPAddress": "192.168.1.156",
+		"Subnet": "/23",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},

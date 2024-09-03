@@ -1,9 +1,9 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Windows 10",
+		"OperatingSystem": "Appliance",
 		"vCPUs": "4",
-		"RAM": "6144",
-		"IPAddress": "192.168.1.145",
+		"RAM": "16384",
+		"IPAddress": "192.168.1.144",
 		"Subnet": "/23",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"

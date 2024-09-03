@@ -1,6 +1,6 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Alma9",
+		"OperatingSystem": "Alma 9",
 		"vCPUs": "2",
 		"RAM": "8",
 		"IPAddress": "192.168.1.145",
