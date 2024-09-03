@@ -1,6 +1,6 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Win2022",
+		"OperatingSystem": "Windows 2022",
 		"vCPUs": "2",
 		"RAM": "8192",
 		"IPAddress": "192.168.0.102",

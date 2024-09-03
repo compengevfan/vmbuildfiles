@@ -1,6 +1,6 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Win10",
+		"OperatingSystem": "Windows 10",
 		"vCPUs": "2",
 		"RAM": "8192",
 		"IPAddress": "192.168.1.148",
