@@ -2,7 +2,7 @@
 	"VMInfo": {
 		"OperatingSystem": "Win10",
 		"vCPUs": "2",
-		"RAM": "8",
+		"RAM": "8192",
 		"IPAddress": "192.168.1.148",
 		"Subnet": "/23",
 		"Datastore": "iSCSI-Storage1-SSD",
