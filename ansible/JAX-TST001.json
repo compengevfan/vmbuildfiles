@@ -3,7 +3,7 @@
 		"OperatingSystem": "Win2022",
 		"vCPUs": "2",
 		"RAM": "8",
-		"IPAddress": "10.10.10.2",
+		"IPAddress": "10.10.10.3",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},
