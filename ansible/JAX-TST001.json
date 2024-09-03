@@ -4,6 +4,7 @@
 		"vCPUs": "2",
 		"RAM": "8",
 		"IPAddress": "10.10.10.3",
+		"Subnet": "/24",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},
