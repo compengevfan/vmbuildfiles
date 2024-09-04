@@ -1,11 +1,11 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Windows 2019",
-		"vCPUs": "2",
+		"OperatingSystem": "CentOS 9",
+		"vCPUs": "1",
 		"RAM": "4096",
-		"IPAddress": "192.168.1.126",
+		"IPAddress": "192.168.1.161",
 		"Subnet": "/23",
-		"Cluster": "C1",
+		"Cluster": "PC",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},

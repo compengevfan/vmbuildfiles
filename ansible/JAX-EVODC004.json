@@ -1,11 +1,11 @@
 {
 	"VMInfo": {
 		"OperatingSystem": "Windows 2019",
-		"vCPUs": "2",
-		"RAM": "4096",
-		"IPAddress": "192.168.1.126",
+		"vCPUs": "4",
+		"RAM": "6144",
+		"IPAddress": "192.168.1.125",
 		"Subnet": "/23",
-		"Cluster": "C1",
+		"Cluster": "PC",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},
