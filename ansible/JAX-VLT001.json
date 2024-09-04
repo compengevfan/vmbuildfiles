@@ -5,6 +5,7 @@
 		"RAM": "4096",
 		"IPAddress": "192.168.1.141",
 		"Subnet": "/23",
+		"Cluster": "C1",
 		"Datastore": "iSCSI-Storage1-SSD",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},
