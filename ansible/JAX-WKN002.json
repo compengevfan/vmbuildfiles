@@ -6,7 +6,7 @@
 		"IPAddress": "192.168.1.146",
 		"Subnet": "/23",
 		"Cluster": "C1",
-		"Datastore": "iSCSI-Storage1-SSD",
+		"Datastore": "iSCSI-Storage2-NVMe",
 		"FolderPath": "DC1/EvOrigin/Workers"
 	},
   
