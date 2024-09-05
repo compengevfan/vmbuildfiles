@@ -1,0 +1,18 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "Windows 11",
+		"vCPUs": "4",
+		"RAM": "6144",
+		"IPAddress": "192.168.1.150",
+		"Subnet": "/23",
+		"Cluster": "C1",
+		"Datastore": "iSCSI-Storage1-NVMe",
+		"FolderPath": "DC1/EvOrigin/Workers"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
