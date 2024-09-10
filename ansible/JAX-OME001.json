@@ -2,7 +2,7 @@
 	"VMInfo": {
 		"OperatingSystem": "Appliance",
 		"vCPUs": "4",
-		"RAM": "16384",
+		"RAM": "16000",
 		"IPAddress": "192.168.0.104",
 		"Subnet": "/23",
 		"Cluster": "C1",
