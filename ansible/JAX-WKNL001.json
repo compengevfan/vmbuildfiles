@@ -2,8 +2,8 @@
 	"VMInfo": {
 		"OperatingSystem": "Alma 9",
 		"vCPUs": "2",
-		"RAM": "8",
-		"IPAddress": "192.168.1.145",
+		"RAM": "4",
+		"IPAddress": "192.168.0.103",
 		"Subnet": "/23",
 		"Cluster": "C1",
 		"Datastore": "iSCSI-Storage1-SSD",
