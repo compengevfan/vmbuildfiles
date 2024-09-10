@@ -1,0 +1,18 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "",
+		"vCPUs": "",
+		"RAM": "",
+		"IPAddress": "",
+		"Subnet": "/23",
+		"Cluster": "C1",
+		"Datastore": "",
+		"FolderPath": "DC1/EvOrigin/Workers"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
