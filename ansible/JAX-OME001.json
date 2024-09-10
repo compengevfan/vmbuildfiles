@@ -1,0 +1,18 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "Appliance",
+		"vCPUs": "4",
+		"RAM": "16384",
+		"IPAddress": "192.168.0.104",
+		"Subnet": "/23",
+		"Cluster": "C1",
+		"Datastore": "",
+		"FolderPath": "DC1/EvOrigin/Appliances"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
