@@ -7,7 +7,8 @@
 		"Subnet": "/23",
 		"Cluster": "C1",
 		"Datastore": "",
-		"FolderPath": "DC1/EvOrigin/Workers"
+		"vCenterFolderPath": "DC1/EvOrigin/Workers",
+		"OU": ""
 	},
   
   	"ExtraDisks": [

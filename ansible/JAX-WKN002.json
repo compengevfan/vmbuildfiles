@@ -7,7 +7,7 @@
 		"Subnet": "/23",
 		"Cluster": "C1",
 		"Datastore": "iSCSI-Storage2-NVMe",
-		"FolderPath": "DC1/EvOrigin/Workers"
+		"vCenterFolderPath": "DC1/EvOrigin/Workers"
 	},
   
   	"ExtraDisks": [
