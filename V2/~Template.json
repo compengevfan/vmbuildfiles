@@ -1,6 +1,7 @@
 {
 	"VMInfo": {
 		"OperatingSystem": "",
+		"Config": "",
 		"vCPUs": "",
 		"RAM": "",
 		"IPAddress": "",
