@@ -1,13 +1,13 @@
 {
 	"VMInfo": {
 		"OperatingSystem": "Alma 9",
+		"Config": "JAX_EvOrigin",
 		"vCPUs": "2",
 		"RAM": "4096",
 		"IPAddress": "192.168.1.151",
-		"Subnet": "/23",
-		"Cluster": "C1",
 		"Datastore": "iSCSI-Storage1-NVMe",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers"
+		"vCenterFolderPath": "DC1/EvOrigin/Workers",
+		"OU": "Virtual Servers"
 	},
   
   	"ExtraDisks": [

@@ -4,8 +4,6 @@
 		"vCPUs": "",
 		"RAM": "",
 		"IPAddress": "",
-		"Subnet": "/23",
-		"Cluster": "C1",
 		"Datastore": "",
 		"vCenterFolderPath": "DC1/EvOrigin/Workers",
 		"OU": ""
