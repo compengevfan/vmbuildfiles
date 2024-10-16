@@ -1,13 +1,12 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "",
-		"Config": "",
-		"vCPUs": "",
-		"RAM": "",
-		"IPAddress": "",
-		"Datastore": "",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers",
-		"OU": ""
+		"OperatingSystem": "[OperatingSystem]",
+		"vCPUs": "[vCPUs]",
+		"RAM": "[RAM]",
+		"Network": "[Network]",
+		"Datastore": "[Datastore]",
+		"vCenterFolderPath": "[vCenterFolderPath]",
+		"OU": "[]"
 	},
   
   	"ExtraDisks": [
