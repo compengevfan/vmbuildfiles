@@ -6,7 +6,7 @@
 		"Network": "JAX-EvOrigin",
 		"Datastore": "Storage1-NVMe",
 		"vCenterFolderPath": "DC1/EvOrigin/Workers",
-		"OU": "evorigin/Virtual Servers"
+		"OU": "evorigin.com/Virtual Servers"
 	},
   
   	"ExtraDisks": [
