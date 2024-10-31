@@ -6,7 +6,7 @@
 		"Network": "[Network]",
 		"Datastore": "[Datastore]",
 		"vCenterFolderPath": "[vCenterFolderPath]",
-		"OU": "[]"
+		"OU": "[OU]"
 	},
   
   	"ExtraDisks": [

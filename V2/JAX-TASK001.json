@@ -1,0 +1,17 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "Windows 2022",
+		"vCPUs": "2",
+		"RAM": "8",
+		"Network": "JAX-EvOrigin",
+		"Datastore": "Storage1-NVMe",
+		"vCenterFolderPath": "DC1/EvOrigin/Workers",
+		"OU": "evorigin/Virtual Servers"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
