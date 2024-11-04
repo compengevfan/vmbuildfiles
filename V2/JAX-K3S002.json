@@ -1,0 +1,17 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "Alma 9",
+		"vCPUs": "2",
+		"RAM": "6",
+		"Network": "JAX-EvOrigin",
+		"Datastore": "Storage1-SSD",
+		"vCenterFolderPath": "DC1/EvOrigin/Workers",
+		"OU": "evorigin.com/Virtual Workstations"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
