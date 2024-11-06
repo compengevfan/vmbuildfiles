@@ -1,7 +1,7 @@
 {
 	"PortGroup": "vDS-FE-PG-JAX-EvOrigin",
 	"SNM": "255.255.254.0",
-	"Subnet": "/23",
+	"Subnet": "192.168.0.0/23",
 	"Cluster": "C1",
 	"Gateway": "192.168.1.254",
 	"DNS1": "192.168.1.125",
