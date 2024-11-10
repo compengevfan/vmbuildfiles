@@ -1,8 +1,8 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Windows 2022",
+		"OperatingSystem": "Windows 2019",
 		"vCPUs": "2",
-		"RAM": "8",
+		"RAM": "6",
 		"Network": "JAX-EvOrigin",
 		"Datastore": "Storage1-NVMe",
 		"vCenterFolderPath": "DC1/EvOrigin/Workers",
