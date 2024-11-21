@@ -2,8 +2,8 @@
 	"VMInfo": {
 		"OperatingSystem": "Alma 9",
 		"Config": "JAX_EvOrigin",
-		"vCPUs": "2",
-		"RAM": "4096",
+		"vCPUs": "4",
+		"RAM": "8192",
 		"IPAddress": "192.168.1.149",
 		"Datastore": "iSCSI-Storage2-NVMe",
 		"vCenterFolderPath": "DC1/EvOrigin/Workers",
