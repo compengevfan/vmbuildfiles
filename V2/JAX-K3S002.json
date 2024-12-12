@@ -4,9 +4,8 @@
 		"vCPUs": "4",
 		"RAM": "8",
 		"Network": "JAX-EvOrigin",
-		"Datastore": "Storage1-SSD",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers",
-		"OU": "evorigin.com/Virtual Workstations"
+		"IPAddress": "192.168.0.105",
+		"Datastore": "storage1-nvme"
 	},
   
   	"ExtraDisks": [

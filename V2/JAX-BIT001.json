@@ -1,13 +1,11 @@
 {
 	"VMInfo": {
-		"OperatingSystem": "Alma 9",
+		"OperatingSystem": "Windows 2019",
 		"vCPUs": "2",
-		"RAM": "6144",
-		"IPAddress": "192.168.1.147",
-		"Subnet": "/23",
-		"Cluster": "C1",
-		"Datastore": "iSCSI-Storage2-SSD",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers"
+		"RAM": "6",
+		"Network": "JAX-EvOrigin",
+		"Datastore": "storage1-nvme",
+		"OU": "OU=Virtual Servers,DC=evorigin,DC=com"
 	},
   
   	"ExtraDisks": [
