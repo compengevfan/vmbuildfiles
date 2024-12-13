@@ -2,7 +2,7 @@
 	"VMInfo": {
 		"OperatingSystem": "Windows 10",
 		"vCPUs": "4",
-		"RAM": "6144",
+		"RAM": "6",
 		"Network": "JAX-EvOrigin",
 		"IPAddress": "192.168.1.14",
 		"Datastore": "xidax",
