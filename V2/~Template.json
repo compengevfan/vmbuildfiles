@@ -5,7 +5,6 @@
 		"RAM": "[RAM]",
 		"Network": "[Network]",
 		"Datastore": "[Datastore]",
-		"vCenterFolderPath": "[vCenterFolderPath]",
 		"OU": "[OU]"
 	},
   
