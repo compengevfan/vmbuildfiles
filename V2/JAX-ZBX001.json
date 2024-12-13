@@ -1,0 +1,17 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "CentOS Stream 9",
+		"vCPUs": "1",
+		"RAM": "4",
+		"Network": "JAX-EvOrigin",
+		"IPAddress": "192.168.1.161",
+		"Datastore": "xidax",
+		"OU": "N/A"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
