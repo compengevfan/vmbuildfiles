@@ -5,7 +5,8 @@
 		"RAM": "8",
 		"Network": "JAX-EvOrigin",
 		"IPAddress": "192.168.1.149",
-		"Datastore": "storage1-nvme"
+		"Datastore": "storage1-nvme",
+		"OU": "N/A"
 	},
   
   	"ExtraDisks": [
