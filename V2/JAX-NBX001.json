@@ -3,11 +3,10 @@
 		"OperatingSystem": "Ubuntu",
 		"vCPUs": "2",
 		"RAM": "4096",
+		"Network": "JAX-EvOrigin",
 		"IPAddress": "192.168.1.140",
-		"Subnet": "/23",
-		"Cluster": "C1",
-		"Datastore": "iSCSI-Storage2-NVMe",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers"
+		"Datastore": "storage1-ssd",
+		"OU": "N/A"
 	},
   
   	"ExtraDisks": [

@@ -1,13 +1,12 @@
 {
 	"VMInfo": {
 		"OperatingSystem": "Windows 10",
-		"vCPUs": "4",
-		"RAM": "6144",
+		"vCPUs": "8",
+		"RAM": "8",
+		"Network": "JAX-EvOrigin",
 		"IPAddress": "192.168.1.148",
-		"Subnet": "/23",
-		"Cluster": "C1",
-		"Datastore": "iSCSI-Storage1-SSD",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers"
+		"Datastore": "storage3-nfs",
+		"OU": "OU=Virtual Workstations,DC=evorigin,DC=com"
 	},
   
   	"ExtraDisks": [

@@ -3,11 +3,10 @@
 		"OperatingSystem": "Windows 10",
 		"vCPUs": "2",
 		"RAM": "6144",
+		"Network": "JAX-EvOrigin",
 		"IPAddress": "192.168.1.156",
-		"Subnet": "/23",
-		"Cluster": "C1",
-		"Datastore": "iSCSI-Storage1-SSD",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers"
+		"Datastore": "storage1-ssd",
+		"OU": "OU=Media Server,DC=evorigin,DC=com"
 	},
   
   	"ExtraDisks": [

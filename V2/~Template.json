@@ -4,6 +4,7 @@
 		"vCPUs": "[vCPUs]",
 		"RAM": "[RAM]",
 		"Network": "[Network]",
+		"IPAddress": "[IPAddress]",
 		"Datastore": "[Datastore]",
 		"OU": "[OU]"
 	},

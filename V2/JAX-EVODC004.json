@@ -5,7 +5,7 @@
 		"RAM": "6",
 		"Network": "JAX-EvOrigin",
 		"IPAddress": "192.168.1.125",
-		"Datastore": "storage1-ssd",
+		"Datastore": "xidax",
 		"OU": "OU=Domain Controllers,DC=evorigin,DC=com"
 	},
   
