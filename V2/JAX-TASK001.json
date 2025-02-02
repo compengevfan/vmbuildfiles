@@ -4,7 +4,7 @@
 		"vCPUs": "4",
 		"RAM": "8",
 		"Network": "JAX-EvOrigin",
-		"Datastore": "Storage1-NVMe",
+		"Datastore": "storage1-nvme",
 		"vCenterFolderPath": "DC1/EvOrigin/Workers",
 		"OU": "evorigin.com/Virtual Servers"
 	},
