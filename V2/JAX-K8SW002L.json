@@ -1,7 +1,7 @@
 {
 	"VMInfo": {
 		"OperatingSystem": "Alma 9",
-		"vCPUs": "2",
+		"vCPUs": "4",
 		"RAM": "8",
 		"Network": "JAX-EvOrigin",
 		"Datastore": "storage1-ssd",
