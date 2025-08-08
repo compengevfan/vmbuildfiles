@@ -1,0 +1,16 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "Windows 2022",
+		"vCPUs": "2",
+		"RAM": "6",
+		"Network": "JAX-EvOrigin",
+		"Datastore": "storage1-nvme",
+		"OU": "OU=Virtual Servers,DC=evorigin,DC=com"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
