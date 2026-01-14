@@ -4,7 +4,7 @@
 		"vCPUs": "4",
 		"RAM": "8",
 		"Network": "JAX-EvOrigin",
-		"Datastore": "storage1-nvme",
+		"Datastore": "storage1-ssd",
 		"OU": "N/A"
 	},
   
