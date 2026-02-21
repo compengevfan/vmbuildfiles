@@ -5,7 +5,7 @@
 		"RAM": "8",
 		"Network": "JAX-EvOrigin",
 		"Datastore": "storage1-ssd",
-		"OU": "OU=Virtual Servers,DC=evorigin,DC=com"
+		"OU": "OU=Virtual Workstations,DC=evorigin,DC=com"
 	},
   
   	"ExtraDisks": [
