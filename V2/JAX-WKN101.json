@@ -2,12 +2,10 @@
 	"VMInfo": {
 		"OperatingSystem": "Windows 11",
 		"vCPUs": "4",
-		"RAM": "6",
-		"IPAddress": "192.168.1.150",
-		"Subnet": "/23",
-		"Cluster": "C1",
-		"Datastore": "iSCSI-Storage1-NVMe",
-		"vCenterFolderPath": "DC1/EvOrigin/Workers"
+		"RAM": "8",
+		"Network": "JAX-EvOrigin",
+		"Datastore": "storage1-ssd",
+		"OU": "OU=Virtual Servers,DC=evorigin,DC=com"
 	},
   
   	"ExtraDisks": [
