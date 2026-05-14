@@ -1,0 +1,16 @@
+{
+	"VMInfo": {
+		"OperatingSystem": "Ubuntu",
+		"vCPUs": "8",
+		"RAM": "16",
+		"Network": "JAX-EvOrigin",
+		"Datastore": "storage1-nvme",
+		"OU": "N/A"
+	},
+  
+  	"ExtraDisks": [
+		{
+			"Coming": "Soon"
+		}
+	]
+}
